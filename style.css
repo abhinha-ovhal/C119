@@ -1,0 +1,30 @@
+body{
+    background: rgb(196, 255, 21);
+}
+#score{
+    margin-top: 150px;
+    float: left;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 900;
+}
+#nothing{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+}
+#timer{
+    margin-top: 150px;
+    float: right;
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: 900;
+}
+#input{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+canvas{
+    margin-top: 120px;
+}
